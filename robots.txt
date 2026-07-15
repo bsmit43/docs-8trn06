@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-t2bpgl.venom88win.biz/sitemap.xml
